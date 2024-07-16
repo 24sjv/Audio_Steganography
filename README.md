@@ -19,6 +19,13 @@ Hiddenwave is a python based program for simple audio steganography. You can hid
 This tool require python3
 
 
+
+>>>>> FOR EASY PROCESS USE MY REPOSITORY
+
+                                     gitclone https://github.com/24sjv/Audio_Steganography.git
+                 
+<<<<<
+
 ## Steps
 Hiddenwave have two python scripts.
 
