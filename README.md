@@ -41,6 +41,5 @@ Step-2---Extract Secret Message from the audio file
        > to extract secret message run the following command  python3 ExWave.py -f output.wav
        > You will view your secret message
 
-
- 
+### For easy process Use gitclone https://github.com/24sjv/Audio_Steganography.git 
 
