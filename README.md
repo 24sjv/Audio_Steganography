@@ -7,13 +7,7 @@ Steganography is the practice of hiding a secret message inside of (or even on t
 Audio steganography is the process of hiding a message inside an audio container.......
 
 
-### Tool Used
 
-# HiddenWave
-Embedding secret messages in wave audio file
-
-# What is HiddenWave
-Hiddenwave is a python based program for simple audio steganography. You can hide your secret text messages in wave audio file. you can play this audio in any media player and secretly share your private message with any one.
 
 # Requirements
 This tool require python3
@@ -24,7 +18,7 @@ This tool require python3
 
                                      gitclone https://github.com/24sjv/Audio_Steganography.git
                  
-<<<<<
+
 
 ## Steps
 Hiddenwave have two python scripts.
